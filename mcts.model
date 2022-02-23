@@ -1,0 +1,12 @@
+{'White': {'Wins': 0, 'Loses': 0, 'Draws': 1}, 'Black': {'Wins': 0, 'Loses': 0, 'Draws': 1}}
+{'White': {'Wins': 0, 'Loses': 1, 'Draws': 1}, 'Black': {'Wins': 1, 'Loses': 0, 'Draws': 1}}
+{'White': {'Wins': 0, 'Loses': 1, 'Draws': 2}, 'Black': {'Wins': 1, 'Loses': 0, 'Draws': 2}}
+{'White': {'Wins': 0, 'Loses': 1, 'Draws': 3}, 'Black': {'Wins': 1, 'Loses': 0, 'Draws': 3}}
+{'White': {'Wins': 0, 'Loses': 1, 'Draws': 4}, 'Black': {'Wins': 1, 'Loses': 0, 'Draws': 4}}
+{'White': {'Wins': 0, 'Loses': 1, 'Draws': 5}, 'Black': {'Wins': 1, 'Loses': 0, 'Draws': 5}}
+{'White': {'Wins': 0, 'Loses': 1, 'Draws': 6}, 'Black': {'Wins': 1, 'Loses': 0, 'Draws': 6}}
+{'White': {'Wins': 0, 'Loses': 1, 'Draws': 7}, 'Black': {'Wins': 1, 'Loses': 0, 'Draws': 7}}
+{'White': {'Wins': 0, 'Loses': 2, 'Draws': 7}, 'Black': {'Wins': 2, 'Loses': 0, 'Draws': 7}}
+{'White': {'Wins': 0, 'Loses': 2, 'Draws': 8}, 'Black': {'Wins': 2, 'Loses': 0, 'Draws': 8}}
+{'White': {'Wins': 0, 'Loses': 2, 'Draws': 9}, 'Black': {'Wins': 2, 'Loses': 0, 'Draws': 9}}
+{'White': {'Wins': 0, 'Loses': 3, 'Draws': 9}, 'Black': {'Wins': 3, 'Loses': 0, 'Draws': 9}}
